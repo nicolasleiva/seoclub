@@ -1,5 +1,11 @@
 import StatsigExample from "@/components/statsig-example";
 
+export const metadata = {
+  title: "Add descriptive title (50-60 chars)",
+  description: "Add SEO-optimized meta description (150-160 chars)"
+}
+
+
 export default function StatsigDemoPage() {
   return (
     <div className="container mx-auto py-12">
