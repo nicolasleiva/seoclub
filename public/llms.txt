@@ -1,0 +1,25 @@
+# Cacerola Growth
+
+> Cacerola es una agencia especializada en growth orgánico para empresas que piensan diferente. Ayudamos a construir confianza y autoridad de marca a través de estrategias personalizadas de contenido mientras tu competencia compra clics.
+
+Ofrecemos soluciones de growth marketing con un enfoque en:
+- Análisis IA de presencia digital
+- Estrategias personalizadas de growth orgánico
+- Contenido que convierte y construye autoridad
+- Optimización para búsquedas por IA y tradicionales
+- Resultados medibles en un plazo de 90 días
+
+## Servicios
+
+- [Growth Orgánico](/servicios/growth-organico.html.md): Estrategias de crecimiento sostenible sin depender de publicidad pagada.
+- [Análisis IA](/servicios/analisis-ia.html.md): Evaluación profunda de tu presencia digital con tecnología de IA avanzada.
+- [Autoridad de Marca](/servicios/autoridad-marca.html.md): Construcción de credibilidad y confianza para tu empresa.
+
+## Empresa
+
+- [Sobre Nosotros](/sobre-nosotros.html.md): Conoce nuestro equipo y filosofía de trabajo.
+- [Casos de Éxito](/casos-exito.html.md): Historias reales de empresas que han crecido con nuestras estrategias.
+
+## Contacto
+
+- [Formulario de Contacto](/contacto.html.md): Conecta con nuestros especialistas para obtener una evaluación personalizada.
