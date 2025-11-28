@@ -1,6 +1,12 @@
 import { PosthogDemo } from "@/components/posthog-demo";
 import { Suspense } from "react";
 
+export const metadata = {
+  title: "PostHog Analytics Demo en Vivo – Configura y Prueba Gratis",
+  description: "Ve cómo funciona PostHog en tiempo real: captura eventos, funnels y dashboards sin código. Configura en 2 min y empieza a optimizar tu producto hoy."
+}
+
+
 // Componente de carga para usar con Suspense
 function PostHogDemoLoading() {
   return (
