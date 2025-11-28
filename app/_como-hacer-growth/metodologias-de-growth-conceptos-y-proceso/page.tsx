@@ -9,6 +9,12 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { ChevronRight, Clock, Calendar, Share2, Bookmark, Heart } from "lucide-react"
 
+export const metadata = {
+  title: "Blog Post Index: Latest Articles & News Updates",
+  description: "Discover fresh insights in our blog post index. Browse categories, bookmark favorites, and subscribe to the newsletter for weekly updates!"
+}
+
+
 // Componente de carga para usar con Suspense
 function BlogPostLoading() {
   return (
