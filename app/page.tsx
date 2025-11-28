@@ -9,6 +9,12 @@ import { ArrowUp, ChevronRight } from "lucide-react"
 import Link from "next/link"
 import { initStatsig, checkGate, getExperiment, logEvent } from "@/lib/statsig"
 
+export const metadata = {
+  title: "Growth Orgánico para Empresas: Desbloquea Tu Potencial",
+  description: "Análisis personalizado de crecimiento orgánico. Descubre el potencial oculto de tu empresa y comienza tu transformación hoy. Solicita tu diagnóstico gratis."
+}
+
+
 // TODO: Implementar integración con servicios de Strapi
 // import { getNavigationData } from "@/services/navigation-service"
 // import { getHeroContent } from "@/services/hero-service"
