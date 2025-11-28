@@ -9,6 +9,12 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { ChevronRight, Clock, Calendar, Share2, Bookmark, Heart } from "lucide-react"
 
+export const metadata = {
+  title: "Next.js Blog Post Template with SEO & UI Best Practices",
+  description: "Grab the ultimate Next.js blog starter: SEO-ready metadata, share buttons, bookmarks & newsletter signup. Copy, customize, publish—rank higher today!"
+}
+
+
 // Componente de carga para usar con Suspense
 function BlogPostLoading() {
   return (
