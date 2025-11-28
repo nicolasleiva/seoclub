@@ -15,6 +15,12 @@ import { initStatsig, checkGate, getExperiment, logEvent } from "@/lib/statsig"
 // import { getFooterContent } from "@/services/footer-service"
 // import { submitContactForm } from "@/services/contact-service"
 
+export const metadata = {
+  title: "Add descriptive title (50-60 chars)",
+  description: "Add SEO-optimized meta description (150-160 chars)"
+}
+
+
 // Componente interno que envolvemos con Suspense
 function CacerolaContent() {
   // Estado para feature flags y experimentos de Statsig
