@@ -9,6 +9,13 @@ import { ArrowUp, ChevronRight } from "lucide-react"
 import Link from "next/link"
 import { initStatsig, checkGate, getExperiment, logEvent } from "@/lib/statsig"
 
+export const metadata = {
+  title: "Growth Orgánico para Empresas Que Piensan Diferente - Comprehensive Guide",
+  description: "Growth Orgánico para Empresas Que Piensan Diferente: Mientras tu competencia compra clics, nosotros construimos confianza. Tu audiencia ya te está buscando...
+ "
+}
+
+
 // TODO: Implementar integración con servicios de Strapi
 // import { getNavigationData } from "@/services/navigation-service"
 // import { getHeroContent } from "@/services/hero-service"

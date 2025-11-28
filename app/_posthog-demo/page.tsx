@@ -1,6 +1,12 @@
 import { PosthogDemo } from "@/components/posthog-demo";
 import { Suspense } from "react";
 
+export const metadata = {
+  title: "PostHog Analytics Demo - Comprehensive Guide",
+  description: "PostHog Analytics Demo: Cargando demostración..."
+}
+
+
 // Componente de carga para usar con Suspense
 function PostHogDemoLoading() {
   return (

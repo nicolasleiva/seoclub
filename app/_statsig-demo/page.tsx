@@ -1,5 +1,12 @@
 import StatsigExample from "@/components/statsig-example";
 
+export const metadata = {
+  title: "Demostración de Statsig - Comprehensive Guide",
+  description: "Demostración de Statsig: Esta página demuestra cómo Statsig se integra en la aplicación Cacerola para proporcionar 
+        funcionalidades como feature flags, "
+}
+
+
 export default function StatsigDemoPage() {
   return (
     <div className="container mx-auto py-12">
