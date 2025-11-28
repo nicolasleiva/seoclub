@@ -8,6 +8,12 @@ import { Badge } from "@/components/ui/badge"
 import { ChevronRight } from "lucide-react"
 import { Suspense } from "react"
 
+export const metadata = {
+  title: "Blog de Cacerola: Recetas fáciles, trucos y consejos de cocina",
+  description: "Recetas caseras paso a paso, trucos de cocina y consejos para triunfar con tu cacerola. Entra y descubre ideas deliciosas que conquistarán a todos."
+}
+
+
 // Componente de carga para usar con Suspense
 function BlogPageLoading() {
   return (
