@@ -8,6 +8,12 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { ChevronRight, Clock, Calendar, Share2, Bookmark, Heart } from "lucide-react"
 
+export const metadata = {
+  title: "Add descriptive title (50-60 chars)",
+  description: "Add SEO-optimized meta description (150-160 chars)"
+}
+
+
 interface BlogPostProps {
   params: {
     slug: string
