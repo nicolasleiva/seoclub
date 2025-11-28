@@ -8,6 +8,12 @@ import { Badge } from "@/components/ui/badge"
 import { ChevronRight } from "lucide-react"
 import { Suspense } from "react"
 
+export const metadata = {
+  title: "Cómo Hacer Growth en Cacerola: Receta Paso a Paso Rápida",
+  description: "Aprende cómo hacer growth en cacerola en 30 min. Ingredientes fáciles, trucos para más sabor y versión vegana. ¡Cocina ahora y sorprende!"
+}
+
+
 // Componente de carga para usar con Suspense
 function ComoHacerGrowthLoading() {
   return (
