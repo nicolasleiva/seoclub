@@ -8,6 +8,12 @@ import { Badge } from "@/components/ui/badge"
 import { ChevronRight } from "lucide-react"
 import { Suspense } from "react"
 
+export const metadata = {
+  title: "Como hacer Growth por Cacerola - Comprehensive Guide",
+  description: "Como hacer Growth por Cacerola: Cargando contenido..."
+}
+
+
 // Componente de carga para usar con Suspense
 function ComoHacerGrowthLoading() {
   return (
