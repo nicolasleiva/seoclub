@@ -8,6 +8,12 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { ChevronRight, Clock, Calendar, Share2, Bookmark, Heart } from "lucide-react"
 
+export const metadata = {
+  title: "{post.title} - Comprehensive Guide",
+  description: "{post.title}: Recibe nuestros mejores artículos directamente en tu email"
+}
+
+
 interface BlogPostProps {
   params: {
     slug: string
