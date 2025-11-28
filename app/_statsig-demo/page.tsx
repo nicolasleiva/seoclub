@@ -1,5 +1,11 @@
 import StatsigExample from "@/components/statsig-example";
 
+export const metadata = {
+  title: "Demo Statsig en Cacerola: Feature Flags y A/B Testing",
+  description: "Descubre cómo Statsig integra feature flags y experimentos A/B en Cacerola. Activa funciones y analiza eventos en tiempo real. ¡Prueba la demo ahora!"
+}
+
+
 export default function StatsigDemoPage() {
   return (
     <div className="container mx-auto py-12">
