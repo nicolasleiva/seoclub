@@ -8,6 +8,12 @@ import { Badge } from "@/components/ui/badge"
 import { ChevronRight } from "lucide-react"
 import { Suspense } from "react"
 
+export const metadata = {
+  title: "Blog de Cacerola - Comprehensive Guide",
+  description: "Blog de Cacerola: Cargando artículos..."
+}
+
+
 // Componente de carga para usar con Suspense
 function BlogPageLoading() {
   return (
