@@ -8,6 +8,12 @@ import { Badge } from "@/components/ui/badge"
 import { ChevronRight } from "lucide-react"
 import { Suspense } from "react"
 
+export const metadata = {
+  title: "Blog de Cacerola: Recetas, Trucos y Categorías para Cocinar",
+  description: "Explora el Blog de Cacerola: recetas fáciles, categorías top y tags trending. Encuentra tu plato ideal, suscríbete y cocina como un chef hoy."
+}
+
+
 // Componente de carga para usar con Suspense
 function BlogPageLoading() {
   return (

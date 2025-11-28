@@ -9,6 +9,12 @@ import { ArrowUp, ChevronRight } from "lucide-react"
 import Link from "next/link"
 import { initStatsig, checkGate, getExperiment, logEvent } from "@/lib/statsig"
 
+export const metadata = {
+  title: "Growth Orgánico para Empresas Diferentes | Análisis SEO Gratis",
+  description: "Descubre el potencial oculto de tu empresa con estrategias de growth orgánico. Comienza tu análisis personalizado y escala sin anuncios. ¡Hazlo ahora!"
+}
+
+
 // TODO: Implementar integración con servicios de Strapi
 // import { getNavigationData } from "@/services/navigation-service"
 // import { getHeroContent } from "@/services/hero-service"

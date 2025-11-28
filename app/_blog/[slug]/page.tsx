@@ -8,6 +8,12 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { ChevronRight, Clock, Calendar, Share2, Bookmark, Heart } from "lucide-react"
 
+export const metadata = {
+  title: "Next.js Blog Post Template: Build Fast, SEO-Friendly Articles",
+  description: "Clone this open-source Next.js blog post template to launch blazing-fast, SEO-ready articles in minutes. Star the repo and start writing today!"
+}
+
+
 interface BlogPostProps {
   params: {
     slug: string
